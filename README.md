@@ -6,7 +6,7 @@
 
 ![](TTC.gif)
 
-<br/><br/>PLEASE CONTRIBUTE.<br/>
+<br/>PLEASE CONTRIBUTE!!<br/>
 ==> References:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
 https://gist.github.com/haeky/5797333 <br/>
