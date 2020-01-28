@@ -4,10 +4,9 @@
 1).Weak cryptography<br/>
 2).Lack of code obfuscation<br/>
 
-LOT OF WORK TO BE DONE. PLEASE CONTRIBUTE.<br/><br/>
-
 ![](TTC.gif)
-<br/>
+
+<br/><br/>PLEASE CONTRIBUTE.<br/>
 ==> References:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
 https://gist.github.com/haeky/5797333 <br/>
