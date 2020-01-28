@@ -6,6 +6,8 @@
 
 LOT OF WORK TO BE DONE. PLEASE CONTRIBUTE.<br/><br/>
 
+![](name-of-giphy.gif)
+<br/>
 ==> References:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
 https://gist.github.com/haeky/5797333 <br/>
