@@ -6,7 +6,7 @@
 
 LOT OF WORK TO BE DONE. PLEASE CONTRIBUTE.<br/><br/>
 
-![](name-of-giphy.gif)
+![](TTC.gif)
 <br/>
 ==> References:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
