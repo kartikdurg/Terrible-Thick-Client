@@ -3,6 +3,8 @@
 "Terrible Thick Client" is a vulnerable application in C# .NET framework. The vulnerabilities covered so far includes:
 
 1).Weak cryptography
+
+
 2).Lack of code obfuscation
 
 LOT OF WORK TO BE DONE. PLEASE CONTRIBUTE.
