@@ -81,10 +81,6 @@ namespace WindowsFormsApp1
             // Decrypt the string.  
             string DecryptedHexString = Form1.Decrypt(EncryptedHexString, Form1.ReadKey(keyName, subKey, valueName),keysize);
 
-            Console.WriteLine("RandomString: " + StringToEncrypt);
-            Console.WriteLine("EncryptedHexString: " + EncryptedHexString);
-            Console.WriteLine("DecryptedHexString: " + DecryptedHexString);
-
             // Remove the Key from memory.   
             //ZeroMemory(gch.AddrOfPinnedObject(), key.Length * 2);
             
