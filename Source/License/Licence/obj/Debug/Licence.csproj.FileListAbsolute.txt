@@ -1,0 +1,5 @@
+C:\Users\karti\source\repos\Licence\Licence\bin\Debug\Licence.dll
+C:\Users\karti\source\repos\Licence\Licence\bin\Debug\Licence.pdb
+C:\Users\karti\source\repos\Licence\Licence\obj\Debug\Licence.csprojAssemblyReference.cache
+C:\Users\karti\source\repos\Licence\Licence\obj\Debug\Licence.dll
+C:\Users\karti\source\repos\Licence\Licence\obj\Debug\Licence.pdb
