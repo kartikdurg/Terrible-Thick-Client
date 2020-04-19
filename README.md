@@ -10,7 +10,7 @@
 ![](TTC.gif)
 
 
-==> References:<br/>
+==> References that I used while coding:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
 https://gist.github.com/haeky/5797333 <br/>
 http://eddiejackson.net/wp/?p=23767 <br/>
