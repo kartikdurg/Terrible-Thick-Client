@@ -31,3 +31,14 @@ C:\Users\karti\Desktop\Terrible-Thick-Client-master\Source\TerribleThickClient\W
 C:\Users\karti\Desktop\Terrible-Thick-Client-master\Source\TerribleThickClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\karti\Desktop\Terrible-Thick-Client-master\Source\TerribleThickClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\karti\Desktop\Terrible-Thick-Client-master\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TTC1.resources
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TTC.resources
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\karti\Desktop\Terrible-Thick-Client\Source\TerribleThickClient\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
