@@ -14,6 +14,4 @@ NOTE: The password for this application changes everytime it is executed. :)
 
 ==> References that I used while coding:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
-https://gist.github.com/haeky/5797333 <br/>
-http://eddiejackson.net/wp/?p=23767 <br/>
 https://social.msdn.microsoft.com/Forums/en-US/a23b4ae7-eceb-49f9-bdda-90004567caa4/encrypt-decrypt-data-des-using-dpapi-to-store-key-in-registry?forum=csharplanguage <br/>
