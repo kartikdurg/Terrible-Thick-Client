@@ -16,6 +16,6 @@ NOTE: The password for this application changes everytime it is executed. :)
 
 https://fabulous-property-93b.notion.site/Terrible-Thick-Client-Pentesting-4f09ef3a935647c3853a739691f2d890
 
-==> References that I used while coding:<br/>
+### References that I used while coding:<br/>
 https://docs.microsoft.com/en-us/windows/win32/api/dpapi/nf-dpapi-cryptprotectdata <br/>
 https://social.msdn.microsoft.com/Forums/en-US/a23b4ae7-eceb-49f9-bdda-90004567caa4/encrypt-decrypt-data-des-using-dpapi-to-store-key-in-registry?forum=csharplanguage <br/>
